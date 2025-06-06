@@ -21,7 +21,5 @@ Arrays.sort(b, Collections.reverseOrder());
         for(int num : b) {
             System.out.println(num);
         }
-
-        rk.close();
         }
 }
