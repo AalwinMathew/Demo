@@ -93,7 +93,5 @@ public class ArrayOperations {
                     System.out.println("Invalid choice.");
             }
         } while (choice != 5);
-
-        scanner.close();
     }
 }
