@@ -59,7 +59,5 @@ public class RecursiveOperations {
                     System.out.println("Invalid choice.");
             }
         } while (choice != 3);
-
-        scanner.close();
     }
 }
